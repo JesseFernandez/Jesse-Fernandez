@@ -137,6 +137,12 @@ The file you need to update is the filebeat.yml file which is a configuration fi
 The URL to use to verify the Elk-Server is running is the Public IP (73.188.63.31:5601)
 
 
+![Project 1 Image #2](https://user-images.githubusercontent.com/74419149/112837430-e271b280-9069-11eb-8fae-cd5141c957af.PNG)
+
+![Project 1 Image](https://user-images.githubusercontent.com/74419149/112837450-e7cefd00-9069-11eb-9061-ed956a5e0846.PNG)
+
+![Project 1 Image #3](https://user-images.githubusercontent.com/74419149/112837459-e998c080-9069-11eb-9a77-ce08f5197392.PNG)
+
 
 
 
